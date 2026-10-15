@@ -2,7 +2,7 @@
 
 A market-neutral long-short U.S. equity strategy that combines six academic alpha signals, re-weights them with a walk-forward machine-learning model, and scales gross exposure with the **Economic Policy Uncertainty (EPU)** index.
 
-*Final project for Quantitative Portfolio Management, University of Chicago Booth School of Business (Feb 2026).*
+*Independent research with Prof. Ralph Koijen, University of Chicago Booth School of Business (Winter 2026), completed in Quantitative Portfolio Management.*
 
 <p align="center">
   <img src="figures/fig_epu_cum.png" width="900" alt="Cumulative log returns of the unscaled and EPU-scaled long-short portfolio">
