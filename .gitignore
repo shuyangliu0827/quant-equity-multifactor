@@ -1,0 +1,8 @@
+# licensed / large input data
+*.parquet
+*.xlsx
+*.csv
+# notebook & python caches
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
